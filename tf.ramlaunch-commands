@@ -1,5 +1,4 @@
 #Ram User Account Creation
-#Ram User Account Creation
 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframownera EOS5LGeyaZ5cpn5T79GaNSJWjM1vsa2Nzq3QY1nWxR8zMiyVgFKaG
 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframownerb EOS8JEKzN9eUYixn8xVZxeoPtnqwEaGQFxUzCRgwsREacEJ6AeaUv
 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframownerc EOS6WU7EGDyCSxYc1jjX3Pi5z6yra9rSEjkR32tBnsB8HAF7WKcvY
