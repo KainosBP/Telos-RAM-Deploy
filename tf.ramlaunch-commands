@@ -30,7 +30,7 @@ system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --
 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframlsellb EOS8kx9PfaMgAR7AqJKyS6RQUhjUg1fQTUhATNsZd6U3xvauC7Mqz
 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframlsellc EOS55vxaAbPcXGBBjeh3BnJXWKM2w38oD1KgdMufSSX8XLFd8z2Gd
 
-#Set Action Perms
+#Set Action Perms for tf.ramlaunch
 set account permission tf.ramlaunch transfer tf.ramltrns.json "active" -p tf.ramlaunch@active
 set account permission tf.ramlaunch selldel tf.ramlselldel.json "active" -p tf.ramlaunch@active
 set action permission tf.ramlaunch eosio transfer transfer
@@ -38,6 +38,9 @@ set action permission tf.ramlaunch eosio delegatebw selldel
 set action permission tf.ramlaunch eosio undelegatebw selldel
 set action permission tf.ramlaunch eosio buyram selldel
 set action permission tf.ramlaunch eosio sellram selldel
+
+#Set Action Perms for tf.ramadmin
+
 
 
 #Set Owner/Active
