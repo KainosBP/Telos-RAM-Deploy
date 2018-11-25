@@ -51,5 +51,5 @@ set action permission tf.ramadmin eosio sellram ramdir
 #Set Owner/Active
 set account permission tf.ramlaunch active tf.ramlaunch.ao.json -p tf.ramlaunch@owner
 set account permission tf.ramlaunch owner tf.ramlaunch.ao.json -p tf.ramlaunch@owner
-set account permission tf.ramlaunch active tf.ramadmin.active.json -p tf.ramlaunch@owner
-set account permission tf.ramlaunch owner tf.ramadmin.owner.json -p tf.ramlaunch@owner
+set account permission tf.ramadmin active tf.ramadmin.active.json -p tf.ramlaunch@owner
+set account permission tf.ramadmin owner tf.ramadmin.owner.json -p tf.ramlaunch@owner
