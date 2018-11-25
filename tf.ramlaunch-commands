@@ -1,0 +1,45 @@
+#Ram User Account Creation
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframowner.a EOS5LGeyaZ5cpn5T79GaNSJWjM1vsa2Nzq3QY1nWxR8zMiyVgFKaG
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframowner.b EOS8JEKzN9eUYixn8xVZxeoPtnqwEaGQFxUzCRgwsREacEJ6AeaUv
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframowner.c EOS6WU7EGDyCSxYc1jjX3Pi5z6yra9rSEjkR32tBnsB8HAF7WKcvY
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframowner.d EOS5zTRNEhjgejRFkM1JLyqAp2CEEemwprgt4YhgyAQuCNUtP1qar
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframowner.e EOS5gr3imkwvPcPXYtbxrCDdmPmjWFcXbbA35wdnvaPMkc1yxJLaH
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframowner.f EOS5LZWWgNq85WoS2se1Cy5NchTECK7sVHBh5vPqCtiwnniMTLCni
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframowner.g EOS7ZpSQ5i8XNiVbAg9gjWjD3jNKMMtDhQRWQzdQyMg9owQLCTSLA
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframowner.h EOS8TQkdDPLpvaAm8r2MXRwXDTgCiwnw9tXo2WpA2Prop5mPxuECP
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframowner.i EOS5qJJ4PKdbifUYTEWDtiKhFffCqNsxH2161gAwwNNcJWg9vSJLy
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframactiv.a EOS5LGeyaZ5cpn5T79GaNSJWjM1vsa2Nzq3QY1nWxR8zMiyVgFKaG
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframactiv.b EOS8JEKzN9eUYixn8xVZxeoPtnqwEaGQFxUzCRgwsREacEJ6AeaUv
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframactiv.c EOS6WU7EGDyCSxYc1jjX3Pi5z6yra9rSEjkR32tBnsB8HAF7WKcvY
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframtrade.z EOS86pHGGxm71w9uT1ASAjbrTY9iK4jsm3av2JsG5M1Etw7oqkjvd
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframlownr.a EOS5LGeyaZ5cpn5T79GaNSJWjM1vsa2Nzq3QY1nWxR8zMiyVgFKaG
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframlownr.b EOS8JEKzN9eUYixn8xVZxeoPtnqwEaGQFxUzCRgwsREacEJ6AeaUv
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframlownr.c EOS6WU7EGDyCSxYc1jjX3Pi5z6yra9rSEjkR32tBnsB8HAF7WKcvY
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframlownr.d EOS5zTRNEhjgejRFkM1JLyqAp2CEEemwprgt4YhgyAQuCNUtP1qar
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframlownr.e EOS5gr3imkwvPcPXYtbxrCDdmPmjWFcXbbA35wdnvaPMkc1yxJLaH
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframlownr.f EOS5LZWWgNq85WoS2se1Cy5NchTECK7sVHBh5vPqCtiwnniMTLCni
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframlownr.g EOS7ZpSQ5i8XNiVbAg9gjWjD3jNKMMtDhQRWQzdQyMg9owQLCTSLA
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframlownr.h EOS8TQkdDPLpvaAm8r2MXRwXDTgCiwnw9tXo2WpA2Prop5mPxuECP
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframlownr.i EOS5qJJ4PKdbifUYTEWDtiKhFffCqNsxH2161gAwwNNcJWg9vSJLy
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframltrns.z EOS7HiBWsoLZjMRECbmtwDa3ijCeENPfwU8dxWkqpGjYgBjXX1Nt3
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframltrns.a EOS5LGeyaZ5cpn5T79GaNSJWjM1vsa2Nzq3QY1nWxR8zMiyVgFKaG
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframltrns.b EOS8JEKzN9eUYixn8xVZxeoPtnqwEaGQFxUzCRgwsREacEJ6AeaUv
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframltrns.c EOS6WU7EGDyCSxYc1jjX3Pi5z6yra9rSEjkR32tBnsB8HAF7WKcvY
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframlsell.z EOS6sUUCRX6PVNBjgtMVCsMVHmT1AnAV7vmA1gCGJb1fzFaLbed1s
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframlsell.a EOS5eQoRhKMZeczVLev4DuPTTCNabsjgdYU1DGjn3dkYFMPh2FXrL
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframlsell.b EOS8kx9PfaMgAR7AqJKyS6RQUhjUg1fQTUhATNsZd6U3xvauC7Mqz
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 system newaccount -x 100 --transfer --stake-net "1 TLOS" --stake-cpu "1 TLOS" --buy-ram-kbytes 4 eosio tframlsell.c EOS55vxaAbPcXGBBjeh3BnJXWKM2w38oD1KgdMufSSX8XLFd8z2Gd
+
+#Set Action Perms
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 set account permission tf.ramlaunch transfer tf.ramltrns.json "active" -p tf.ramlaunch@active
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 set account permission tf.ramlaunch selldel tf.ramlselldel.json "active" -p tf.ramlaunch@active
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 set action permission tf.ramlaunch eosio transfer transfer
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 set action permission tf.ramlaunch eosio delegatebw selldel
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 set action permission tf.ramlaunch eosio undelegatebw selldel
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 set action permission tf.ramlaunch eosio buyram selldel
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 set action permission tf.ramlaunch eosio sellram selldel
+
+
+#Set Owner/Active
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 set account permission tf.ramlaunch active tf.ramlaunch.ao.json -p tf.ramlaunch@owner
+/telos/stage3.0/build/programs/teclos/teclos -u http://127.0.0.1:8888 set account permission tf.ramlaunch owner tf.ramlaunch.ao.json -p tf.ramlaunch@owner
