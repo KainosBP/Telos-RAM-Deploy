@@ -40,7 +40,12 @@ set action permission tf.ramlaunch eosio buyram selldel
 set action permission tf.ramlaunch eosio sellram selldel
 
 #Set Action Perms for tf.ramadmin
-
+set account permission tf.ramadmin ramdir <JSON HERE> "active" -p tf.ramadmin@active
+set action permission tf.ramadmin eosio transfer ramdir
+set action permission tf.ramadmin eosio delegatebw ramdir
+set action permission tf.ramadmin eosio undelegatebw ramdir
+set action permission tf.ramadmin eosio buyram ramdir
+set action permission tf.ramadmin eosio sellram ramdir
 
 
 #Set Owner/Active
