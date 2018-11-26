@@ -36,12 +36,10 @@ set account permission tf.ramlaunch selldel tf.ramlselldel.json "active" -p tf.r
 set action permission tf.ramlaunch eosio transfer transfer
 set action permission tf.ramlaunch eosio delegatebw selldel
 set action permission tf.ramlaunch eosio undelegatebw selldel
-set action permission tf.ramlaunch eosio buyram selldel
 set action permission tf.ramlaunch eosio sellram selldel
 
 #Set Action Perms for tf.ramadmin
 set account permission tf.ramadmin ramdir '{"threshold":1,"keys":[],"accounts":[{"permission":{"actor":"tframtradez","permission":"active"},"weight":1}]}' "active" -p tf.ramadmin@active
-set action permission tf.ramadmin eosio transfer ramdir
 set action permission tf.ramadmin eosio delegatebw ramdir
 set action permission tf.ramadmin eosio undelegatebw ramdir
 set action permission tf.ramadmin eosio buyram ramdir
@@ -51,5 +49,5 @@ set action permission tf.ramadmin eosio sellram ramdir
 #Set Owner/Active
 set account permission tf.ramlaunch active tf.ramlaunch.ao.json -p tf.ramlaunch@owner
 set account permission tf.ramlaunch owner tf.ramlaunch.ao.json -p tf.ramlaunch@owner
-set account permission tf.ramadmin active tf.ramadmin.active.json -p tf.ramlaunch@owner
-set account permission tf.ramadmin owner tf.ramadmin.owner.json -p tf.ramlaunch@owner
+set account permission tf.ramadmin active tf.ramadmin.active.json -p tf.ramadmin@owner
+set account permission tf.ramadmin owner tf.ramadmin.owner.json -p tf.ramadmin@owner
