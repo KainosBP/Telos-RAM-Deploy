@@ -51,3 +51,20 @@ set account permission tf.ramlaunch active tf.ramlaunch.ao.json -p tf.ramlaunch@
 set account permission tf.ramlaunch owner tf.ramlaunch.ao.json -p tf.ramlaunch@owner
 set account permission tf.ramadmin active tf.ramadmin.active.json -p tf.ramadmin@owner
 set account permission tf.ramadmin owner tf.ramadmin.owner.json -p tf.ramadmin@owner
+
+##Sell RAM Sequence##
+
+#Jan Command
+multisig propose sellmoreram sellram.json '[{"actor": "tf.ramlaunch", "permission": "selldel"}]' eosio sellram '{"account":"tf.ramlaunch","bytes":100, "memo":"Sell RAM"}' -p tframlsellz@active
+
+#Review Proposal
+multisig review tframlsellz sellmoreram
+
+#Jan and 1 more need to approve
+multisig approve tframlsellz sellmoreram '{"actor": "tframlsellz", "permission": "active"}' -p tframlsellz@active
+multisig approve tframlsellz sellmoreram '{"actor": "tframlsella", "permission": "active"}' -p tframlsella@active
+multisig approve tframlsellz sellmoreram '{"actor": "tframlsellb", "permission": "active"}' -p tframlsellb@active
+multisig approve tframlsellz sellmoreram '{"actor": "tframlsellc", "permission": "active"}' -p tframlsellc@active
+
+#Jan Execute
+multisig exec tframlsellz sellmoreram -p tframlsellz@active
